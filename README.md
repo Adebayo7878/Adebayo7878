@@ -40,38 +40,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
 ---
-
-## 🚀 Projets
-
-### 📝 EpyTodo — Web Development `2025 - présent`
-> Application de gestion de tâches (backend)
-- 🔧 Développement du backend complet
-- 🌐 Implémentation de toutes les routes REST API
-- 👥 Collaboration au sein d'une équipe de 3 développeurs
-
----
-
-### 🚆 Tardis — Data Science
-> Prédiction des retards SNCF avec Machine Learning
-- 🧹 Prétraitement & nettoyage du dataset SNCF avec **Pandas / NumPy**
-- 📈 Entraînement de modèles de régression avec **Scikit-Learn**
-- 🖥️ Application web interactive de visualisation avec **Streamlit**
-
----
-
-### 🎮 My Hunter — Game Development
-> Jeu de chasse aux oiseaux en **C / CSFML**
-- 🎨 Conception de la logique principale et des éléments visuels
-- ⚙️ Implémentation des mécaniques de jeu et de l'interface utilisateur
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
 ![Stats](https://github-readme-stats.vercel.app/api?username=Adebayo7878&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adebayo7878&layout=compact&theme=tokyonight&hide_border=true)
 
