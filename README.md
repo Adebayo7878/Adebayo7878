@@ -1,93 +1,104 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Anewar%20ADJIBADE&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=%C3%89tudiant%20en%201%C3%A8re%20ann%C3%A9e%20de%20Bachelor%20en%20Informatique%20%C3%A0%20%C3%89pitech%20B%C3%A9nin&descSize=18&descAlignY=55&textBg=false"/>
-
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Adebayo7878">
-    <img src="https://komarev.com/ghpvc/?username=Adebayo7878&label=Profile%20views&color=00FFFF&style=flat-square" alt="Adebayo7878's profile views" />
-  </a>
-</p>
-
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" />
-
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/Adebayo7878">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adebayo7878&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10" alt="Adebayo7878's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=Adebayo7878&theme=dracula&hide_border=true&cache_seconds=86400" alt="Adebayo7878's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=Adebayo7878&theme=dracula&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Anewar ADJIBADE's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Adebayo7878&theme=dracula&radius=10" alt="Adebayo7878's Activity Graph" />
-</p>
-
-
-## 🛠️ Languages & Tools
-
-<h3 align="center">Programming Languages</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
-
-</p>
-
-<h3 align="center">Frontend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />
-
-</p>
-
-<h3 align="center">Backend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />
-
-</p>
-
-<h3 align="center">Database</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
-
-</p>
-
-<h3 align="center">DevOps & Cloud</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />
-
-</p>
-
-<h3 align="center">Tools</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
-
-</p>
-
-<p align="center">
-  <a href="https://github.com/Adebayo7878">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adebayo7878&langs_count=8&layout=compact&theme=dracula&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
-
-## 🔗 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/anewar-adjibade-a003b939b">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
-  </a>&nbsp;
-  <a href="https://wa.me/2290169098966">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
-  </a>&nbsp;
-  <a href="mailto:ade.adjibade@epitech.eu">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
-</p>
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+
+```
+ █████╗ ███╗   ██╗███████╗██╗    ██╗ █████╗ ██████╗ 
+██╔══██╗████╗  ██║██╔════╝██║    ██║██╔══██╗██╔══██╗
+███████║██╔██╗ ██║█████╗  ██║ █╗ ██║███████║██████╔╝
+██╔══██║██║╚██╗██║██╔══╝  ██║███╗██║██╔══██║██╔══██╗
+██║  ██║██║ ╚████║███████╗╚███╔███╔╝██║  ██║██║  ██║
+╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═╝
+```
+
+### 👨🏾‍💻 Ingénieur Informatique · Développeur Web Junior · IA & Data Enthusiast
+
+[![Email](https://img.shields.io/badge/ade.adjibade%40epitech.eu-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ade.adjibade@epitech.eu)
+[![GitHub](https://img.shields.io/badge/Adebayo7878-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Adebayo7878)
+[![Location](https://img.shields.io/badge/Cotonou%2C_Bénin-009688?style=flat-square&logo=googlemaps&logoColor=white)]()
+
 </div>
 
+---
+
+## 🧠 À propos de moi
+
+> Développeur enthousiaste spécialisé en **Intelligence Artificielle** et axé sur la **Data**. Compétent dans la conception de programmes et interfaces à l'aide de **Python**, **TypeScript** et **HTML/CSS**. Fort esprit d'équipe forgé à travers des projets concrets — je mets mon expertise technique au service de projets **innovants**.
+
+---
+
+## 🛠️ Stack technique
+
+### Langages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Outils & Environnements
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 🚀 Projets
+
+### 📝 EpyTodo — Web Development `2025 - présent`
+> Application de gestion de tâches (backend)
+- 🔧 Développement du backend complet
+- 🌐 Implémentation de toutes les routes REST API
+- 👥 Collaboration au sein d'une équipe de 3 développeurs
+
+---
+
+### 🚆 Tardis — Data Science
+> Prédiction des retards SNCF avec Machine Learning
+- 🧹 Prétraitement & nettoyage du dataset SNCF avec **Pandas / NumPy**
+- 📈 Entraînement de modèles de régression avec **Scikit-Learn**
+- 🖥️ Application web interactive de visualisation avec **Streamlit**
+
+---
+
+### 🎮 My Hunter — Game Development
+> Jeu de chasse aux oiseaux en **C / CSFML**
+- 🎨 Conception de la logique principale et des éléments visuels
+- ⚙️ Implémentation des mécaniques de jeu et de l'interface utilisateur
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Adebayo7878&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adebayo7878&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🎓 Formation
+
+| Diplôme | Établissement | Année |
+|--------|--------------|-------|
+| 🎓 Bachelor en Informatique | Epitech Bénin, Cotonou | 2025 – 2028 |
+| 📜 Baccalauréat Série D | Collège Privé Saint Laurent, Cotonou | 2025 |
+
+---
+
+## 🌍 Langues
+
+![Français](https://img.shields.io/badge/Français-Natif-blue?style=flat-square)
+![Anglais](https://img.shields.io/badge/Anglais-Courant-green?style=flat-square)
+
+---
+
+<div align="center">
+
+*"Le code est de la poésie en mouvement."*
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Adebayo7878&color=blueviolet&style=flat-square)
+
+</div>
