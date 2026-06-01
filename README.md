@@ -41,9 +41,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ---
-![Stats](https://github-readme-stats.vercel.app/api?username=Adebayo7878&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adebayo7878&layout=compact&theme=tokyonight&hide_border=true)
-
 </div>
 
 ---
