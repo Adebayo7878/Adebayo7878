@@ -49,7 +49,7 @@
 
 | Diplôme | Établissement | Année |
 |--------|--------------|-------|
-| 🎓 Bachelor en Informatique | Epitech Bénin, Cotonou | 2025 – 2028 |
+| 🎓 Bachelor en Informatique | Epitech Bénin, Cotonou | 2025 – 2030 |
 | 📜 Baccalauréat Série D | Collège Privé Saint Laurent, Cotonou | 2025 |
 
 ---
