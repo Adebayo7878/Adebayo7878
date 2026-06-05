@@ -9,7 +9,7 @@
 ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
-### 👨🏾‍💻 Ingénieur Informatique · Développeur Web Junior · IA & Data Enthusiast
+### 👨🏾‍💻 Étudiant en Informatique · Développeur Web Junior · IA & Data Enthusiast
 
 [![Email](https://img.shields.io/badge/ade.adjibade%40epitech.eu-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ade.adjibade@epitech.eu)
 [![GitHub](https://img.shields.io/badge/Adebayo7878-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Adebayo7878)
