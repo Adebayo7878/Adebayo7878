@@ -65,6 +65,4 @@
 
 *"Le code est de la poésie en mouvement."*
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Adebayo7878&color=blueviolet&style=flat-square)
-
 </div>
